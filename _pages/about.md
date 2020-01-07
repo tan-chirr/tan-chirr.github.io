@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 About Me
 ======
 I am a first-year Ph.D. student in Computer Science at Stony Brook University.
