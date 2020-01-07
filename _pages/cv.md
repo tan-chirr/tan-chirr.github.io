@@ -9,4 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Curriculum Vitae [PDF]](http://Yinsight.github.io/files/CV_Jan20_Yunting_Yin.pdf)
+<a href="http://Yinsight.github.io/files/CV_Jan20_Yunting_Yin.pdf" target="_blank">Click to View My CV[PDF]</a>
+
