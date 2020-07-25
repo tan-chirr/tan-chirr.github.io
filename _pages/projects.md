@@ -1,9 +1,8 @@
 ---
+layout: archive
 title: "Projects"
-permalink: /Projects/
+permalink: /projects/
 author_profile: true
-redirect_from:
-  - /education
 ---
 
 {% include base_path %}
