@@ -1,17 +1,8 @@
 ---
-layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
-
-<!--
-{% include base_path %}-->
-
-<!--<a href="http://Yinsight.github.io/files/CV_Yunting_Yin.pdf" target="_blank">Click to View My CV [PDF]</a>-->
-
 
 <object data="http://Yinsight.github.io/files/CV_Yunting_Yin.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="http://Yinsight.github.io/files/CV_Yunting_Yin.pdf">
