@@ -11,5 +11,5 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 Published in Molecules, 2019
 
-Contribution: Calculation and data analysis using Python scripts.
+Contribution: Python scripts for calculation.
 
