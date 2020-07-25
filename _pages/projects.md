@@ -6,4 +6,5 @@ author_profile: true
 ---
 
 {% include base_path %}
-B.S. in CS
+
+<a href="http://Yinsight.github.io/files/Seatizens.pdf" target="_blank">Seatizen</a>
