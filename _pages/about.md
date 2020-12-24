@@ -12,6 +12,6 @@ I am a Ph.D. student in Computer Science at Stony Brook University.
 
 Research interests:
 <ul>
+  <li>Speech & Audio Processing</li>
   <li>Natural Language Processing</li>
-  <li>Machine Learning</li>
 </ul>
