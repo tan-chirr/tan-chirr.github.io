@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+{% seo %}
+
 I am a Ph.D. student in Computer Science at Stony Brook University.
 
 Research interests:
