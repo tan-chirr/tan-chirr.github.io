@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 <br>
-<br>
 
 <h1><a href="http://Yinsight.github.io/files/Seatizens.pdf" target="_blank">Seatizen</a></h1> 
 <p> Developed during MTA hackathon to predict occupancy patterns using historical data
