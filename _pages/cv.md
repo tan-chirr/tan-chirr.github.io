@@ -11,3 +11,6 @@ redirect_from:
 
 <a href="http://Yinsight.github.io/files/CV_Yunting_Yin.pdf" target="_blank">Click to View My CV [PDF]</a>
 
+
+<embed src="http://Yinsight.github.io/files/CV_Yunting_Yin.pdf" type="application/pdf">
+
