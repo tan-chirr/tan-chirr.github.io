@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="http://Yinsight.github.io/files/CV_Yunting_Yin.pdf" target="_blank">Click to View PDF Version</a>
+
 <img alt="PNG of My CV" src="http://Yinsight.github.io/files/CV_Yunting_Yin.png" />
 
-<a href="http://Yinsight.github.io/files/CV_Yunting_Yin.pdf" target="_blank">Click to View my CV [PDF]</a>
 
