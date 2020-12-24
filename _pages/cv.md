@@ -14,3 +14,5 @@ redirect_from:
 
 <embed src="http://Yinsight.github.io/files/CV_Yunting_Yin.pdf" type="application/pdf"></embed>
 
+[embed]http://Yinsight.github.io/files/CV_Yunting_Yin.pdf[/embed]
+
