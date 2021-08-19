@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Computer Science at Stony Brook University.
+I am a Ph.D. candidate in Computer Science at Stony Brook University.
 
 Research interests:
 <ul>
