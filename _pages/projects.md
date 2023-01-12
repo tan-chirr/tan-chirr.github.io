@@ -8,7 +8,7 @@ author_profile: true
 <br>
 
 
-<h1><a href="http://Yinsight.github.io/files/age_prediction_section.pdf" target="_blank">Age Prediction on VoxCeleb Datasets</a></h1> 
+<h1>Age Prediction on VoxCeleb Datasets</h1> 
 <p> Transformed VoxCeleb into a longitudinal dataset with speaker age information and performed age prediction tasks. </p>
 
 <h1><a href="http://Yinsight.github.io/files/sleep.pdf" target="_blank">How much do people sleep?</a></h1> 
