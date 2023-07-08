@@ -10,7 +10,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 <!--- {% for post in site.publications reversed %} {% include archive-single.html %} {% endfor %} -->
 
-<h2> Quantifying Healthy Aging in Older Veterans using Computational Audio Analysis </h2>
+<h2> <a href="https://pubmed.ncbi.nlm.nih.gov/37366320/"> Quantifying Healthy Aging in Older Veterans using Computational Audio Analysis </a></h2>
 <p> Yunting Yin, Douglas William Hanes, Steven Skiena, and Sean A P Clouston. <br>
 The Journals of Gerontology: Series A, 2023. </p>
 
