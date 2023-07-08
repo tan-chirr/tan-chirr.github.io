@@ -15,7 +15,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 The Journals of Gerontology: Series A, 2023. </p>
 
 
-<h2> Ligand Selectivity in the Recognition of Protoberberine Alkaloids by Hybrid-2 Human Telomeric G-Quadruplex: Binding Free Energy Calculation, Fluorescence Binding, and NMR Experiments </h2>
+<h2> <a href="https://pubmed.ncbi.nlm.nih.gov/31010072/"> Ligand Selectivity in the Recognition of Protoberberine Alkaloids by Hybrid-2 Human Telomeric G-Quadruplex: Binding Free Energy Calculation, Fluorescence Binding, and NMR Experiments </a></h2>
 <p> Nanjie Deng, Junchao Xia, Lauren Wickstrom, Clement Lin, Kaibo Wang, Peng He, Yunt- ing Yin, and Danzhou Yang. <br>
 Molecules 2019, 24(8), 1574. </p>
 
