@@ -11,5 +11,13 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <!--- {% for post in site.publications reversed %} {% include archive-single.html %} {% endfor %} -->
 
 <h2> Quantifying Healthy Aging in Older Veterans using Computational Audio Analysis </h2>
-Yunting Yin, Douglas William Hanes, Steven Skiena, and Sean A P Clouston.
+<p> Yunting Yin, Douglas William Hanes, Steven Skiena, and Sean A P Clouston. <br>
+The Journals of Gerontology: Series A, 2023. </p>
+
+
+<h2> Ligand Selectivity in the Recognition of Protoberberine Alkaloids by Hybrid-2 Human Telomeric G-Quadruplex: Binding Free Energy Calculation, Fluorescence Binding, and NMR Experiments </h2>
+<p> Nanjie Deng, Junchao Xia, Lauren Wickstrom, Clement Lin, Kaibo Wang, Peng He, Yunt- ing Yin, and Danzhou Yang. <br>
+Molecules 2019, 24(8), 1574. </p>
+
+
 
