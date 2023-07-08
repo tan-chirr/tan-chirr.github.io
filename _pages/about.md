@@ -13,5 +13,5 @@ I am a Ph.D. candidate in Computer Science at Stony Brook University.
 Research interests:
 <ul>
   <li>Speech & Audio Processing</li>
-  <li>Artificial Intelligence</li>
+  <li>Large Language Models</li>
 </ul>
