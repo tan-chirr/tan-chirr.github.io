@@ -10,12 +10,12 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 <!--- {% for post in site.publications reversed %} {% include archive-single.html %} {% endfor %} -->
 
-<h2> <a href="https://pubmed.ncbi.nlm.nih.gov/37366320/"> Quantifying Healthy Aging in Older Veterans using Computational Audio Analysis </a></h2>
+<h2> <a href="https://pubmed.ncbi.nlm.nih.gov/37366320/" target="_blank"> Quantifying Healthy Aging in Older Veterans using Computational Audio Analysis </a></h2>
 <p> Yunting Yin, Douglas William Hanes, Steven Skiena, and Sean A P Clouston. <br>
 The Journals of Gerontology: Series A, 2023. </p>
 
 
-<h2> <a href="https://pubmed.ncbi.nlm.nih.gov/31010072/"> Ligand Selectivity in the Recognition of Protoberberine Alkaloids by Hybrid-2 Human Telomeric G-Quadruplex: Binding Free Energy Calculation, Fluorescence Binding, and NMR Experiments </a></h2>
+<h2> <a href="https://pubmed.ncbi.nlm.nih.gov/31010072/" target="_blank"> Ligand Selectivity in the Recognition of Protoberberine Alkaloids by Hybrid-2 Human Telomeric G-Quadruplex: Binding Free Energy Calculation, Fluorescence Binding, and NMR Experiments </a></h2>
 <p> Nanjie Deng, Junchao Xia, Lauren Wickstrom, Clement Lin, Kaibo Wang, Peng He, Yunt- ing Yin, and Danzhou Yang. <br>
 Molecules 2019, 24(8), 1574. </p>
 
