@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 <h2> Enhancing Affordability and Accessibility: Identifying Optimal Opportunities for Generic Drug Development (ongoing) </h2>
-<p> Capstone project for <a href="https://www.correlation-one.com/data-skills-for-all" target="_blank" rel="noopener noreferrer"> Data Science for All (DS4A) / Women program </a>, which aims to identify drugs that would benefit the most from the development of a generic alternative, and to propose marketing strategies for these drugs. </p>
+<p> Capstone project for <a href="https://www.correlation-one.com/data-skills-for-all" target="_blank" rel="noopener noreferrer"> Data Science for All (DS4A) / Women program</a>, which aims to identify drugs that would benefit the most from the development of a generic alternative, and to propose marketing strategies for these drugs. </p>
 
 
 <h2>Age Prediction on VoxCeleb Datasets</h2> 
