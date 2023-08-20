@@ -14,10 +14,10 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <p> Yunting Yin, Douglas William Hanes, Steven Skiena, and Sean A P Clouston. <br>
 The Journals of Gerontology: Series A, 2023. </p>
 
+<h2> <a href="http://camps.aptaracorp.com/ACM_PMS/PMS/ACM/FAIML2023/1/6c071200-3ecb-11ee-b37c-16bb50361d1f/OUT/faiml2023-1.html#" target="_blank" rel="noopener noreferrer"> Inferring Age from Linguistic and Verbal Cues in Celebrity Interviews </a></h2>
+<p> Yunting Yin, and Steven Skiena. <br>
+2023 International Conference on Frontiers of Artificial Intelligence and Machine Learning (FAIML 2023), April 14-16, 2023, Beijing, China. </p>
 
 <h2> <a href="https://pubmed.ncbi.nlm.nih.gov/31010072/" target="_blank" rel="noopener noreferrer"> Ligand Selectivity in the Recognition of Protoberberine Alkaloids by Hybrid-2 Human Telomeric G-Quadruplex: Binding Free Energy Calculation, Fluorescence Binding, and NMR Experiments </a></h2>
-<p> Nanjie Deng, Junchao Xia, Lauren Wickstrom, Clement Lin, Kaibo Wang, Peng He, Yunt- ing Yin, and Danzhou Yang. <br>
+<p> Nanjie Deng, Junchao Xia, Lauren Wickstrom, Clement Lin, Kaibo Wang, Peng He, Yunting Yin, and Danzhou Yang. <br>
 Molecules 2019, 24(8), 1574. </p>
-
-
-
