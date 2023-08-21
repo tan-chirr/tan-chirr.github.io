@@ -12,10 +12,6 @@ author_profile: true
 <p> Explored market dynamics of generic vs brand-name prescription drugs. </p>
 
 
-<h2>Age Prediction on VoxCeleb Datasets</h2> 
-<p> Transformed VoxCeleb into a longitudinal dataset with speaker age information and performed age prediction tasks based on audio and text embeddings. </p>
-
-
 <h2><a href="http://Yinsight.github.io/files/sleep.pdf" target="_blank">How much do people sleep?</a></h2> 
 <p> Analyzed large-scale Twitter data to get insight into factors affecting how much sleep
 different populations receive, and how sleeping schedule affects mental health. </p>
