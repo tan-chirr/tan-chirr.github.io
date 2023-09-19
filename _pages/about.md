@@ -8,13 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Computer Science at Stony Brook University.
+I am a final-year Ph.D. candidate in Computer Science at Stony Brook University.
 
 Research interests:
 <ul>
   <li>Speech & Audio Processing</li>
   <li>Large Language Models</li>
 </ul>
-
 
 <p><mark>I am looking for full-time positions starting May 2024.</mark></p>
