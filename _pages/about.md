@@ -17,4 +17,4 @@ Research interests:
 </ul>
 
 
-<p>I am in the final year of my PhD journey, and <mark>I am looking for full-time positions starting May 2024</mark>.</p>
+<p><mark>I am looking for full-time positions starting May 2024.</mark></p>
