@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Ph.D. candidate in Computer Science at Stony Brook University. I am a member of the Data Science Lab supervised by <a href="https://www3.cs.stonybrook.edu/~skiena/">Dr. Steven Skiena</a>. 
+I am a final-year Ph.D. candidate in Computer Science at Stony Brook University. I am a member of the Data Science Lab supervised by <a href="https://www3.cs.stonybrook.edu/~skiena/" target="_blank">Dr. Steven Skiena</a>. 
 
 Research interests:
 <ul>
