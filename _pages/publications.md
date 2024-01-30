@@ -18,7 +18,7 @@ The Journals of Gerontology: Series A, 2023. </p>
 <p> Yunting Yin, and Steven Skiena. <br>
 2023 International Conference on Frontiers of Artificial Intelligence and Machine Learning (FAIML 2023), April 14-16, 2023, Beijing, China. </p>
 
-<h2> Enhancing Image-Text Matching with Adaptive Feature Aggregation </h2>
+<h2> <a href="https://arxiv.org/abs/2401.09725"> Enhancing Image-Text Matching with Adaptive Feature Aggregation </a></h2>
 <p> Zuhui Wang, Yunting Yin, and I.V. Ramakrishnan. <br>
 Accepted to ICASSP 2024. </p>
 
