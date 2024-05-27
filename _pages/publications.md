@@ -14,11 +14,11 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <p> Yunting Yin, Douglas William Hanes, Steven Skiena, and Sean A P Clouston. <br>
 The Journals of Gerontology: Series A, 2023. </p>
 
-<h2> <a href="http://camps.aptaracorp.com/ACM_PMS/PMS/ACM/FAIML2023/1/6c071200-3ecb-11ee-b37c-16bb50361d1f/OUT/faiml2023-1.html#" target="_blank" rel="noopener noreferrer"> Inferring Age from Linguistic and Verbal Cues in Celebrity Interviews </a></h2>
+<h2> <a href="https://dl.acm.org/doi/10.1145/3616901.3616902" target="_blank" rel="noopener noreferrer"> Inferring Age from Linguistic and Verbal Cues in Celebrity Interviews </a></h2>
 <p> Yunting Yin, and Steven Skiena. <br>
 2023 International Conference on Frontiers of Artificial Intelligence and Machine Learning (FAIML 2023), April 14-16, 2023, Beijing, China. </p>
 
-<h2> <a href="https://arxiv.org/abs/2401.09725"> Enhancing Image-Text Matching with Adaptive Feature Aggregation </a></h2>
+<h2> <a href="https://ieeexplore.ieee.org/document/10446913" target="_blank" rel="noopener noreferrer"> Enhancing Image-Text Matching with Adaptive Feature Aggregation </a></h2>
 <p> Zuhui Wang, Yunting Yin, and I.V. Ramakrishnan. <br>
 Accepted to ICASSP 2024. </p>
 
