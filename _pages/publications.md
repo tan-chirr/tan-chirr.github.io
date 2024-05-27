@@ -20,7 +20,7 @@ The Journals of Gerontology: Series A, 2023. </p>
 
 <h2> <a href="https://ieeexplore.ieee.org/document/10446913" target="_blank" rel="noopener noreferrer"> Enhancing Image-Text Matching with Adaptive Feature Aggregation </a></h2>
 <p> Zuhui Wang, Yunting Yin, and I.V. Ramakrishnan. <br>
-Accepted to ICASSP 2024. </p>
+ICASSP 2024. </p>
 
 <h2> Word Definitions from Large Language Models </h2>
 <p> Yunting Yin, and Steven Skiena <br>
