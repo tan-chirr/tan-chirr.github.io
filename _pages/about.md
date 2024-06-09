@@ -12,8 +12,8 @@ I am an incoming tenure-track Assistant Professor of Computer Science at Earlham
 
 <br>
 
-Education:
-Ph.D. in Computer Science, Stony Brook University, 2024
+Education:<br>
+Ph.D. in Computer Science, Stony Brook University, 2024<br>
 B.S. in Computer Science, Pace University, 2019
 
 <br>
