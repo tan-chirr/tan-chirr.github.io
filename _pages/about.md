@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming tenure-track Assistant Professor of Computer Science at Earlham College. I obtained my Ph.D. degree in Computer Science at Stony Brook University, where I am a member of the Data Science Lab supervised by <a href="https://www3.cs.stonybrook.edu/~skiena/" target="_blank">Dr. Steven Skiena</a>.
+I am a tenure-track Assistant Professor of Computer Science at Earlham College. I obtained my Ph.D. degree in Computer Science at Stony Brook University, where I am a member of the Data Science Lab supervised by <a href="https://www3.cs.stonybrook.edu/~skiena/" target="_blank">Dr. Steven Skiena</a>.
 
 <h2>Education:</h2>
 Ph.D. in Computer Science, Stony Brook University, 2019-2024. <br>
