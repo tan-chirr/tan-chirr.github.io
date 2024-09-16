@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yunting Yin"
+title                    : "Yunting Yin, PhD"
 title_separator          : "-"
-name                     : &name "Yunting Yin"
-description              : &description "Ph.D. Candidate at Stony Brook University"
+name                     : &name "Yunting Yin, PhD"
+description              : &description "Assistant Professor of Computer Science at Earlham College"
 url                      : https://Yinsight.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Yinsight/academicpages.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yunting Yin"
+  name             : "Yunting Yin, PhD"
   avatar           : "icon.png"
-  bio              : "Ph.D. Student at Stony Brook University"
-  location         : "Stony Brook, NY"
+  bio              : "Assistant Professor of Computer Science at Earlham College"
+  location         : "Richmond, IN"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=kmLgZRQAAAAJ&hl=en&authuser=2&oi=ao"
-  email            : "yunyin@cs.stonybrook.edu"
+  email            : "yinyu@earlham.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
