@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yunting Yin, PhD"
 title_separator          : "-"
 name                     : &name "Yunting Yin, PhD"
-description              : &description "Assistant Professor of Computer Science at Earlham College"
+description              : &description "Assistant Professor of Computer Science @ Earlham College"
 url                      : https://Yinsight.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Yinsight/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yunting Yin, PhD"
   avatar           : "icon.png"
-  bio              : "Assistant Professor of Computer Science at Earlham College"
+  bio              : "Assistant Professor of Computer Science @ Earlham College"
   location         : "Richmond, IN"
   employer         :
   pubmed           : 
