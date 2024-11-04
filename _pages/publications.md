@@ -16,7 +16,7 @@ The Journals of Gerontology: Series A, 2023. </p>
 
 <h2> <a href="https://dl.acm.org/doi/10.1145/3616901.3616902" target="_blank" rel="noopener noreferrer"> Inferring Age from Linguistic and Verbal Cues in Celebrity Interviews </a></h2>
 <p> Yunting Yin, and Steven Skiena. <br>
-2023 International Conference on Frontiers of Artificial Intelligence and Machine Learning (FAIML 2023), April 14-16, 2023, Beijing, China. </p>
+Proceedings of the 2023 International Conference on Frontiers of Artificial Intelligence and Machine Learning. </p>
 
 <h2> <a href="https://ieeexplore.ieee.org/document/10446913" target="_blank" rel="noopener noreferrer"> Enhancing Image-Text Matching with Adaptive Feature Aggregation </a></h2>
 <p> Zuhui Wang, Yunting Yin, and I.V. Ramakrishnan. <br>
