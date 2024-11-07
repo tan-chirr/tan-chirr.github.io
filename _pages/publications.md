@@ -24,11 +24,11 @@ ICASSP 2024. </p>
 <p> Yunting Yin, and Steven Skiena. <br>
 Proceedings of the 2023 International Conference on Frontiers of Artificial Intelligence and Machine Learning. </p>
 
-<h2> ★<a href="https://arxiv.org/abs/2311.06362" target="_blank" rel="noopener noreferrer"> Word Definitions from Large Language Models </a></h2>
+<h2> ★ <a href="https://arxiv.org/abs/2311.06362" target="_blank" rel="noopener noreferrer">Word Definitions from Large Language Models </a></h2>
 <p> Bach Pham, JuiHsuan Wong, Samuel Kim, Yunting Yin, Steven Skiena <br>
 Under submission. </p>
 
-<h2> ★<a href="https://arxiv.org/abs/2310.06930" target="_blank" rel="noopener noreferrer"> Prosody Analysis of Audiobooks </a></h2>
+<h2> ★ <a href="https://arxiv.org/abs/2310.06930" target="_blank" rel="noopener noreferrer">Prosody Analysis of Audiobooks </a></h2>
 <p> Charuta Pethe, Bach Pham, Felix D Childress, Yunting Yin, Steven Skiena <br>
 Under submission. </p>
 
