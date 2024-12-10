@@ -26,11 +26,11 @@ Proceedings of the 2023 International Conference on Frontiers of Artificial Inte
 
 <h2> ★ <a href="https://arxiv.org/abs/2311.06362" target="_blank" rel="noopener noreferrer">Word Definitions from Large Language Models </a></h2>
 <p> Bach Pham, JuiHsuan Wong, Samuel Kim, Yunting Yin, Steven Skiena <br>
-Under submission. </p>
+Accepted to IEEE ICSC 2025. </p>
 
 <h2> ★ <a href="https://arxiv.org/abs/2310.06930" target="_blank" rel="noopener noreferrer">Prosody Analysis of Audiobooks </a></h2>
 <p> Charuta Pethe, Bach Pham, Felix D Childress, Yunting Yin, Steven Skiena <br>
-Under submission. </p>
+Accepted to IEEE ICSC 2025. </p>
 
 <h2> <a href="https://pubmed.ncbi.nlm.nih.gov/31010072/" target="_blank" rel="noopener noreferrer"> Ligand Selectivity in the Recognition of Protoberberine Alkaloids by Hybrid-2 Human Telomeric G-Quadruplex: Binding Free Energy Calculation, Fluorescence Binding, and NMR Experiments </a></h2>
 <p> Nanjie Deng, Junchao Xia, Lauren Wickstrom, Clement Lin, Kaibo Wang, Peng He, Yunting Yin, and Danzhou Yang. <br>
