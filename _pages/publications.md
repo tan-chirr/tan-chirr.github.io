@@ -20,17 +20,21 @@ The Journals of Gerontology: Series A, 2023. </p>
 <p> Zuhui Wang, Yunting Yin, and I.V. Ramakrishnan. <br>
 ICASSP 2024. </p>
 
-<h2> <a href="https://dl.acm.org/doi/10.1145/3616901.3616902" target="_blank" rel="noopener noreferrer"> Inferring Age from Linguistic and Verbal Cues in Celebrity Interviews </a></h2>
-<p> Yunting Yin, and Steven Skiena. <br>
-Proceedings of the 2023 International Conference on Frontiers of Artificial Intelligence and Machine Learning. </p>
+<h2> ★ <a href="https://yinsight.github.io/files/debate.pdf" target="_blank" rel="noopener noreferrer"> Debate-Driven Multi-Agent LLMs for Phishing Email Detection </a></h2>
+<p> Ngoc Tuong Vy Nguyen, Felix D Childress, and Yunting Yin. <br>
+Accepted to ISDFS 2025. </p>
 
 <h2> ★ <a href="https://arxiv.org/abs/2311.06362" target="_blank" rel="noopener noreferrer">Word Definitions from Large Language Models </a></h2>
-<p> Bach Pham, JuiHsuan Wong, Samuel Kim, Yunting Yin, Steven Skiena <br>
+<p> Bach Pham, JuiHsuan Wong, Samuel Kim, Yunting Yin, and Steven Skiena <br>
 Accepted to IEEE ICSC 2025. </p>
 
 <h2> ★ <a href="https://arxiv.org/abs/2310.06930" target="_blank" rel="noopener noreferrer">Prosody Analysis of Audiobooks </a></h2>
-<p> Charuta Pethe, Bach Pham, Felix D Childress, Yunting Yin, Steven Skiena <br>
+<p> Charuta Pethe, Bach Pham, Felix D Childress, Yunting Yin, and Steven Skiena <br>
 Accepted to IEEE ICSC 2025. </p>
+
+<h2> <a href="https://dl.acm.org/doi/10.1145/3616901.3616902" target="_blank" rel="noopener noreferrer"> Inferring Age from Linguistic and Verbal Cues in Celebrity Interviews </a></h2>
+<p> Yunting Yin, and Steven Skiena. <br>
+Proceedings of the 2023 International Conference on Frontiers of Artificial Intelligence and Machine Learning. </p>
 
 <h2> <a href="https://pubmed.ncbi.nlm.nih.gov/31010072/" target="_blank" rel="noopener noreferrer"> Ligand Selectivity in the Recognition of Protoberberine Alkaloids by Hybrid-2 Human Telomeric G-Quadruplex: Binding Free Energy Calculation, Fluorescence Binding, and NMR Experiments </a></h2>
 <p> Nanjie Deng, Junchao Xia, Lauren Wickstrom, Clement Lin, Kaibo Wang, Peng He, Yunting Yin, and Danzhou Yang. <br>
