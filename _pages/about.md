@@ -16,6 +16,8 @@ B.S. in Computer Science, Pace University, 2016-2019.
 
 <h2>Research interests:</h2>
 <ul>
+  <li>AI for Health</li>
   <li>Speech & Audio Processing</li>
+  <li>Natural Language Processing</li>
   <li>Large Language Models</li>
 </ul>
