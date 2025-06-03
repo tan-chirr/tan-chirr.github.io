@@ -20,7 +20,7 @@ The Journals of Gerontology: Series A, 2023. </p>
 <p> Zuhui Wang, Yunting Yin, and I.V. Ramakrishnan. <br>
 ICASSP 2024. </p>
 
-<h2> ★ <a href="https://arxiv.org/abs/2503.22038" target="_blank" rel="noopener noreferrer"> Debate-Driven Multi-Agent LLMs for Phishing Email Detection </a></h2>
+<h2> ★ <a href="https://ieeexplore.ieee.org/document/11012014" target="_blank" rel="noopener noreferrer"> Debate-Driven Multi-Agent LLMs for Phishing Email Detection </a></h2>
 <p> Ngoc Tuong Vy Nguyen, Felix D Childress, and Yunting Yin. <br>
 Accepted to ISDFS 2025. </p>
 
