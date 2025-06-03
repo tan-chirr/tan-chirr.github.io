@@ -18,11 +18,11 @@ The Journals of Gerontology: Series A, 2023. </p>
 
 <h2> <a href="https://ieeexplore.ieee.org/document/10446913" target="_blank" rel="noopener noreferrer"> Enhancing Image-Text Matching with Adaptive Feature Aggregation </a></h2>
 <p> Zuhui Wang, Yunting Yin, and I.V. Ramakrishnan. <br>
-ICASSP 2024. </p>
+Proceedings of the 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2024). </p>
 
 <h2> ★ <a href="https://ieeexplore.ieee.org/document/11012014" target="_blank" rel="noopener noreferrer"> Debate-Driven Multi-Agent LLMs for Phishing Email Detection </a></h2>
 <p> Ngoc Tuong Vy Nguyen, Felix D Childress, and Yunting Yin. <br>
-Accepted to ISDFS 2025. </p>
+Proceedings of the 2025 13th International Symposium on Digital Forensics and Security (ISDFS 2025), Boston, MA, USA, 2025. </p>
 
 <h2> ★ <a href="https://arxiv.org/abs/2311.06362" target="_blank" rel="noopener noreferrer">Word Definitions from Large Language Models </a></h2>
 <p> Bach Pham, JuiHsuan Wong, Samuel Kim, Yunting Yin, and Steven Skiena <br>
