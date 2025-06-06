@@ -20,9 +20,11 @@ The Journals of Gerontology: Series A, 2023. </p>
 <p> Zuhui Wang, Yunting Yin, and I.V. Ramakrishnan. <br>
 Proceedings of the 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2024). </p>
 
+<!--
 <h2> ★ <a href="https://Yinsight.github.io/files/llmdepression.pdf" target="_blank" rel="noopener noreferrer"> Interpretable Depression Detection from Social Media Text Using LLM-Derived Embeddings </a></h2>
 <p> Samuel Kim, Oghenemaro Imieye, and Yunting Yin. <br>
 Submitted to the IEEE EMBS BHI 2025 Conference. </p>
+-->
 
 <h2> ★ <a href="https://ieeexplore.ieee.org/document/11012014" target="_blank" rel="noopener noreferrer"> Debate-Driven Multi-Agent LLMs for Phishing Email Detection </a></h2>
 <p> Ngoc Tuong Vy Nguyen, Felix D Childress, and Yunting Yin. <br>
