@@ -30,11 +30,11 @@ Proceedings of the 2025 13th International Symposium on Digital Forensics and Se
 
 <h2> ★ <a href="https://ieeexplore.ieee.org/document/11036288" target="_blank" rel="noopener noreferrer">Word Definitions from Large Language Models </a></h2>
 <p> Bach Pham, JuiHsuan Wong, Samuel Kim, Yunting Yin, and Steven Skiena. <br>
-Proceedings of the 2025 19th International Conference on Semantic Computing (IEEE ICSC), Laguna Hills, CA, USA, 2025, pp. 158-162. </p>
+Proceedings of the 2025 19th International Conference on Semantic Computing (ICSC), Laguna Hills, CA, USA, 2025, pp. 158-162. </p>
 
 <h2> ★ <a href="https://ieeexplore.ieee.org/document/11036320" target="_blank" rel="noopener noreferrer">Prosody Analysis of Audiobooks </a></h2>
 <p> Charuta Pethe, Bach Pham, Felix D Childress, Yunting Yin, and Steven Skiena. <br>
-Proceedings of the 2025 19th International Conference on Semantic Computing (IEEE ICSC), Laguna Hills, CA, USA, 2025, pp. 217-221. </p>
+Proceedings of the 2025 19th International Conference on Semantic Computing (ICSC), Laguna Hills, CA, USA, 2025, pp. 217-221. </p>
 
 <h2> <a href="https://dl.acm.org/doi/10.1145/3616901.3616902" target="_blank" rel="noopener noreferrer"> Inferring Age from Linguistic and Verbal Cues in Celebrity Interviews </a></h2>
 <p> Yunting Yin, and Steven Skiena. <br>
