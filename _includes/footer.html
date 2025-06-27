@@ -1,11 +1,7 @@
 {% include base_path %}
 
 <div class="page__footer-follow">
-  <!--
-  <div id="clustrmaps-widget">
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=nXVy-KXkMk8cjYcDaGaVBLtl7TmpBhLibyNg7JU1u8E&cl=ffffff&w=a"></script>
-  </div>
-  -->
+
   <ul class="social-icons">
     {% if site.twitter.username %}
       <li><a href="https://twitter.com/{{ site.twitter.username }}"><i class="fab fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
@@ -21,6 +17,8 @@
     {% endif %}
   </ul>
 </div>
+
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=nXVy-KXkMk8cjYcDaGaVBLtl7TmpBhLibyNg7JU1u8E"></script>
 
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>.</div>
 
