@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="http://Yinsight.github.io/files/CV_Yunting_Yin.pdf" target="_blank">Click to View PDF Version</a>
+<a href="http://https://github.com/tan-chirr/tan-chirr.github.io/blob/master/files/Tanaka_Chirara%20Resume.pdf" target="_blank">Click to View PDF Version</a>
 
-<img alt="PNG of My CV (page1)" src="http://Yinsight.github.io/files/CV_Yunting_Yin_page1.png" />
-<img alt="PNG of My CV2 (page2)" src="http://Yinsight.github.io/files/CV_Yunting_Yin_page2.png" />
+<img alt="PNG of My CV (page1)" src="https://github.com/tan-chirr/tan-chirr.github.io/blob/master/files/Tanaka_Chirara%20Resume.pdf.png" />
+
 
 
