@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yunting Yin, PhD"
+title                    : "Tanaka Chirara, Undergrad"
 title_separator          : "-"
-name                     : &name "Yunting Yin, PhD"
-description              : &description "Assistant Professor of Computer Science @ Earlham College"
-url                      : https://Yinsight.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Tanaka Chirara"
+description              : &description "Student of Computer Science @ Earlham College"
+url                      : https://tan-chirr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Yinsight/academicpages.github.io"
+repository               : "tan_chirr/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yunting Yin, PhD"
+  name             : "Tanaka Chirara"
   avatar           : "icon.png"
-  bio              : "Assistant Professor of Computer Science @ Earlham College"
+  bio              : "Computer Science student @ Earlham College"
   location         : "Richmond, IN"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=kmLgZRQAAAAJ&hl=en&authuser=2&oi=ao"
-  email            : "yinyu@earlham.edu"
+  googlescholar    : ""
+  email            : "tchira24@earlham.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Yinsight"
+  github           : "tan-chirr"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0009-0004-3150-1411"
+  orcid            : #"https://orcid.org/0009-0004-3150-1411"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "yuny1n"
+  twitter          : "tanakac"
   vine             :
   weibo            :
   xing             :
