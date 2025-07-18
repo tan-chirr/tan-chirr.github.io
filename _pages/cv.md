@@ -9,9 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="http://https://github.com/tan-chirr/tan-chirr.github.io/blob/master/files/Tanaka_Chirara%20Resume.pdf" target="_blank">Click to View PDF Version</a>
+<a href="https://raw.githubusercontent.com/tan-chirr/tan-chirr.github.io/master/files/Tanaka_Chirara%20Resume.pdf" target="_blank">Click to View PDF Version</a>
 
-<img alt="PNG of My CV (page1)" src="https://github.com/tan-chirr/tan-chirr.github.io/blob/master/files/Tanaka_Chirara%20Resume.pdf.png" />
-
-
-
+<img alt="Page 1 of My CV" src="https://raw.githubusercontent.com/tan-chirr/tan-chirr.github.io/master/files/Tanaka_Chirara_Resume_Page1.png" width="80%" />
