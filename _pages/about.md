@@ -8,16 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a tenure-track Assistant Professor of Computer Science at Earlham College. I obtained my Ph.D. degree in Computer Science at Stony Brook University, where I am a member of the Data Science Lab supervised by <a href="https://www3.cs.stonybrook.edu/~skiena/" target="_blank">Dr. Steven Skiena</a>.
+I am a Computer Science student Earlham College passionate about cybersecurity and large language models</a>.
 
 <h2>Education:</h2>
-Ph.D. in Computer Science, Stony Brook University, 2019-2024. <br>
-B.S. in Computer Science, Pace University, 2016-2019.
+Undegraduate Computer Science student, Earlham College,Ricmond USA 2024-2028. <br>
+IB Diploma Robert Bosch College, Germany 2022-2024.
 
 <h2>Research interests:</h2>
 <ul>
-  <li>AI for Health</li>
-  <li>Speech & Audio Processing</li>
   <li>Natural Language Processing</li>
   <li>Large Language Models</li>
 </ul>
