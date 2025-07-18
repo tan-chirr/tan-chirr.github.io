@@ -7,8 +7,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Publications"
-    url: /publications/
+  #- title: "Publications"
+   # url: /publications/
 
   #- title: "Research"
     #url: /research/
@@ -19,8 +19,8 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "Teaching"
-    url: /teaching/    
+ # - title: "Teaching"
+   # url: /teaching/    
     
   #- title: "News"
     #url: /news/
