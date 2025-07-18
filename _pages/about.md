@@ -15,7 +15,7 @@ I am a Computer Science and Business double major at Earlham College, passionate
 <h2>Education</h2>
 <ul>
   <li><strong>Bachelor of Arts</strong>, Earlham College, Richmond, IN (2024–2028)<br>
-  Majors: Computer Science and Business</li>
+  Majors: Computer Science Economics </li>
   <li><strong>International Baccalaureate Diploma</strong>, UWC Robert Bosch College, Germany (2022–2024)</li>
 </ul>
 
