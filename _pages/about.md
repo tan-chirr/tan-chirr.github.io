@@ -11,7 +11,7 @@ redirect_from:
 <h2>About Me</h2>
 <ul>
   <li>
-     I am a Computer Science major at Earlham College, passionate about the transformative potential of large language models, Machine leanrning, AI       for social good and clean technology.
+     I am a Computer Science major at Earlham College, passionate about the transformative potential of large language models, Machine learning, AI       for social good and clean technology.
   </li>
 </ul>
 
