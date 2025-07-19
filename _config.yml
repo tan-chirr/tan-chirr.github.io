@@ -42,7 +42,7 @@ social:
   name: Tanaka Chirara
   links:
     - "https://github.com/tan-chirr"
-    - "https://linkedin.com/in/tanaka-chirara"
+    - "https://linkedin.com/in/tanaka-chirara-"
 
 # Analytics
 analytics:
@@ -51,8 +51,8 @@ analytics:
 # Site Author
 author:
   name: "Tanaka Chirara"
-  avatar: "icon.png"  # Upload your photo to `assets/images/`
-  bio: "Computer Science and Business major at Earlham College. Passionate about clean technology, sustainability, and AI for good."
+  avatar: ""  # Upload your photo to `assets/images/`
+  bio: "Computer Science Major . Passionate about clean technology, sustainability, and AI for good."
   location: "Richmond, IN"
   email: "tchira24@earlham.edu"
   github: "tan-chirr"
