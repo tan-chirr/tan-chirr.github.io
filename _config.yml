@@ -51,7 +51,7 @@ analytics:
 # Site Author
 author:
   name: "Tanaka Chirara"
-  avatar: ""  # Upload your photo to `assets/images/`
+  avatar: "tanka.jpg"  # Upload your photo to `assets/images/`
   bio: "Computer Science Major . Passionate about clean technology, sustainability, and AI for good."
   location: "Richmond, IN"
   email: "tchira24@earlham.edu"
