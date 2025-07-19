@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 
-I am a Computer Science and Economics double major at Earlham College, passionate about **cybersecurity**, **clean technology**, and the transformative potential of **large language models** and **AI for social good**.
+I am a Computer Science and Business double major at Earlham College, passionate about **cybersecurity**, **clean technology**, and the transformative potential of **large language models** and **AI for social good**.
 
 ---
 
