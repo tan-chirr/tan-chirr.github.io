@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "About Me"
 excerpt: "Learn more about Tanaka Chirara"
 author_profile: true
 redirect_from: 
