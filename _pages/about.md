@@ -10,7 +10,7 @@ redirect_from:
 
 <h2>About me</h2>
 <ul>
-I am a Computer Science and Business double major at Earlham College, passionate about cybersecurity, clean technology, and the transformative potential of large language models and AI for social good.
+  <li>I am a Computer Science and Business double major at Earlham College, passionate about cybersecurity, clean technology, and the transformative potential of large language models and AI for social good.</li>
 </ul>
 
 ---
