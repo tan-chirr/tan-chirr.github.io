@@ -8,15 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-<h2>About me</h2>
-<ul>I am a Computer Science and Business double major at Earlham College, passionate about cybersecurity, clean technology, and the transformative     potential of large language models and AI for social good.</li>
+<h2>About Me</h2>
+<ul>
+  <li>
+    I am a Computer Science and Business double major at Earlham College, passionate about cybersecurity,
+    clean technology, and the transformative potential of large language models and AI for social good.
+  </li>
 </ul>
 
 ---
 
 <h2>Education</h2>
-<ul>Computer Science Major , Earlham College, Richmond, IN (2024–2028)<br>
-IB Diploma, UWC Robert Bosch College, Germany (2022–2024)
+<ul>
+  <li>Computer Science Major, Earlham College, Richmond, IN (2024–2028)</li>
+  <li>IB Diploma, UWC Robert Bosch College, Germany (2022–2024)</li>
 </ul>
 
 ---
@@ -27,4 +32,4 @@ IB Diploma, UWC Robert Bosch College, Germany (2022–2024)
   <li>Large Language Models (LLMs)</li>
   <li>Cybersecurity and AI Safety</li>
   <li>Tech for Sustainability</li>
-</ul>    
+</ul>
