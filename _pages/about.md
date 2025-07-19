@@ -1,30 +1,217 @@
----
-permalink: /
-title: "About Me"
-excerpt: "Learn more about Tanaka Chirara"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+# Site Settings
+locale                   : "en-US"
+title                    : "Tanaka Chirara"
+title_separator          : "-"
+name                     : &name "Tanaka Chirara"
+description              : &description "CS + Business undergrad | Clean tech advocate | AI enthusiast"
+url                      : "https://tan-chirr.github.io"
+baseurl                  : ""
+repository               : "tan-chirr/tan-chirr.github.io"
+teaser                   :
+breadcrumbs              : false
+words_per_minute         : 160
+future                   : true
+read_more                : "disabled"
+talkmap_link             : false
 
-I am a Computer Science and Business double major at Earlham College, passionate about cybersecurity, clean technology, and the transformative potential of large language models and AI for social good.
+comments:
+  provider: false
 
----
+atom_feed:
+  path: 
 
-<h2>Education</h2>
-<ul>
-  <li><strong>Bachelor of Arts</strong>, Earlham College, Richmond, IN (2024–2028)<br>
-  Majors: Computer Science Economics </li>
-  <li><strong>International Baccalaureate Diploma</strong>, UWC Robert Bosch College, Germany (2022–2024)</li>
-</ul>
+# SEO Related
+google_site_verification :
+bing_site_verification   :
+alexa_site_verification  :
+yandex_site_verification :
 
----
+# Social Sharing
+twitter:
+  username: tanakac
 
-<h2>Research Interests</h2>
-<ul>
-  <li>Natural Language Processing</li>
-  <li>Large Language Models (LLMs)</li>
-  <li>Cybersecurity and AI Safety</li>
-  <li>Tech for Sustainability</li>
-</ul>
+facebook:
+  username:
+  app_id:
+  publisher:
+
+og_image: 
+
+social:
+  type: Person
+  name: Tanaka Chirara
+  links:
+    - "https://github.com/tan-chirr"
+    - "https://linkedin.com/in/tanaka-chirara"
+
+# Analytics
+analytics:
+  provider: false
+
+# Site Author
+author:
+  name: "Tanaka Chirara"
+  avatar: "icon.png"  # Upload your photo to `assets/images/`
+  bio: "Computer Science and Business major at Earlham College. Passionate about clean technology, sustainability, and AI for good."
+  location: "Richmond, IN"
+  email: "tchira24@earlham.edu"
+  github: "tan-chirr"
+  linkedin: "tanaka-chirara"
+  twitter: "tanakac"
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+  - files
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
+  - log
+  - node_modules
+  - package.json
+  - tmp
+  - vendor
+
+keep_files:
+  - .git
+  - .svn
+
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Collections
+collections:
+  teaching:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: false
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: false
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: false
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Outputting
+permalink: /:categories/:title/
+timezone: America/New_York
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+# Archives
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+# HTML Compression
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
