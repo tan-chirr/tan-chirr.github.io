@@ -19,8 +19,8 @@ redirect_from:
 
 <h2>Education</h2>
 <ul>
-  <li>Computer Science Major, Earlham College, Richmond, IN (2024–2028)</li>
-  <li>IB Diploma, UWC Robert Bosch College, Germany (2022–2024)</li>
+  <li>Computer Science Major, Earlham College, Richmond, IN, USA (2024–2028)</li>
+  <li>IB Diploma, UWC Robert Bosch College, Feiburg, Baden-Württemberg, Germany (2022–2024)</li>
 </ul>
 
 ---
