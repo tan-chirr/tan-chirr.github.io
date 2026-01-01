@@ -1,8 +1,14 @@
 ---
-layout: page
-title: Research
+title: "Research"
 permalink: /research/
+layout: single
+author_profile: true
+nav_order: 2
+categories: [research]
+sidebar:
+  nav: "research"
 ---
+
 
 ## Research Experience
 During my Summer 2025 internship, I worked with Dr. Yunting Yin on emotion recognition research using machine learning. I processed image- and text-based datasets and trained a convolutional neural network (CNN) in Python, handling data preparation, model evaluation, and optimization. This work strengthened my experience with large datasets and practical ML workflows.
