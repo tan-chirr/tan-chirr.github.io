@@ -1,10 +1,9 @@
 ---
-permalink: /
+permalink: /about/
 title: ""
 excerpt: "Learn more about Tanaka Chirara"
 author_profile: true
 redirect_from: 
-  - /about/
   - /about.html
 ---
 
