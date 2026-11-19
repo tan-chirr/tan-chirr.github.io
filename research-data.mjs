@@ -1,4 +1,5 @@
 ﻿export const sources = {
+  yin: ["Dr. Yunting Yin", "https://www.emich.edu/computer-science/faculty/y_yin.php"],
   banerjee: ["Professor Debanjali Banerjee", "https://earlham.edu/faculty-staff/debanjali-banerjee/"],
   gamchi: ["Professor Fatemeh Valizadeh Gamchi", "https://earlham.edu/faculty-staff/fatemeh-valizadeh-gamchi/"],
   waste: ["2021 cooking pot abstract (PDF)", "https://abstracts.societyforscience.org/Home/PrintPdf/20432"],
@@ -76,6 +77,7 @@ export const projects = [
     results: "The paper reports a mean macro-F1 improvement of +0.0030 for the ZZ interaction feature-map configuration, with gains on four of the six datasets. The arXiv record notes acceptance to IEEE ICTAI 2026.",
     limitations: "The improvements were modest and configuration-dependent. The results support further study of targeted interventions alongside strong classical baselines.",
     paper: true,
+    resources: ["yin"],
     related: ["recommendation-systems", "ai-literature-review"],
   },
   {
