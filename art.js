@@ -4,7 +4,6 @@ const photo = frame.querySelector("img");
 const canvas = hero.querySelector(".particle-portrait");
 const context = canvas.getContext("2d");
 const reducedMotion = matchMedia("(prefers-reduced-motion: reduce)");
-const mobile = matchMedia("(max-width: 44rem)");
 const finePointer = matchMedia("(hover: hover) and (pointer: fine)");
 
 const settings = {
@@ -60,8 +59,9 @@ function random() {
   return randomState / 4294967296;
 }
 
-function samplePortrait(columns) {
-  if (particleCache.has(columns)) return particleCache.get(columns);
+function samplePortrait(columns, compact) {
+  const cacheKey = columns + ':' + compact;
+  if (particleCache.has(cacheKey)) return particleCache.get(cacheKey);
 
   const rows = Math.round(columns * grayscalePhoto.height / grayscalePhoto.width);
   const sample = document.createElement("canvas");
@@ -136,10 +136,10 @@ function samplePortrait(columns) {
     }
   }
 
-  const limit = Math.round(settings.count * (mobile.matches ? .45 : 1));
+  const limit = Math.round(settings.count * (compact ? .45 : 1));
   faceCandidates.sort((a, b) => b.priority - a.priority);
   for (const { particle } of faceCandidates.slice(0, limit)) particles.push(particle);
-  particleCache.set(columns, particles);
+  particleCache.set(cacheKey, particles);
   return particles;
 }
 
@@ -193,8 +193,9 @@ function startPortrait() {
     const bounds = hero.getBoundingClientRect();
     const subject = frame.getBoundingClientRect();
     const ratio = Math.min(devicePixelRatio || 1, 2);
-    const columns = Math.round((mobile.matches ? 132 : 199) / settings.spacing);
-    particles = samplePortrait(columns);
+    const compact = subject.width <= 360;
+    const columns = Math.round((compact ? 132 : 199) / settings.spacing);
+    particles = samplePortrait(columns, compact);
     if (lastFadeStart !== settings.fadeStart) {
       const height = fadedPhoto.height;
       photoContext.globalCompositeOperation = "source-over";
@@ -209,7 +210,7 @@ function startPortrait() {
       lastFadeStart = settings.fadeStart;
     }
     layout = {
-      width: bounds.width, height: bounds.height,
+      width: bounds.width, height: bounds.height, compact,
       x: subject.left - bounds.left + subject.width * (1 - settings.scale) / 2, y: subject.top - bounds.top,
       subjectWidth: subject.width * settings.scale, subjectHeight: subject.height * settings.scale,
       pageTop: bounds.top + scrollY,
@@ -248,7 +249,7 @@ function startPortrait() {
     lastScroll = scroll;
 
     const progress = !animated ? 0 : settings.progress >= 0 ? settings.progress : clamp((scroll - Math.max(0, layout.pageTop - 64)) / layout.distance);
-    const size = settings.size * layout.subjectWidth / (mobile.matches ? 310 : 480);
+    const size = settings.size * layout.subjectWidth / (layout.compact ? 310 : 480);
     const idle = animated && visible ? Math.sin(now / 2300) * 1.18 : 0;
     const useGpu = animated;
     gpuCanvas.hidden = !useGpu;

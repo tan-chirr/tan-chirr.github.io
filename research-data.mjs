@@ -1,4 +1,5 @@
 ﻿export const sources = {
+  gamchi: ["Professor Fatemeh Valizadeh Gamchi", "https://earlham.edu/faculty-staff/fatemeh-valizadeh-gamchi/"],
   waste: ["2021 cooking pot abstract (PDF)", "https://abstracts.societyforscience.org/Home/PrintPdf/20432"],
   awards21: ["2021 ISEF special awards", "https://www.societyforscience.org/press-release/2021-regeneron-isef-sao-awards/"],
   air: ["2022 indoor air pollution abstract (PDF)", "https://abstracts.societyforscience.org/Home/PrintPdf?projectId=22123"],
@@ -39,7 +40,8 @@ export const projects = [
     area: "Machine learning · Recommender systems · Representation learning",
     people: "Mentor: Fatemeh Valizadeh Gamchi · Collaborators: Omar Zaher and Reeti Joshi",
     status: "EPIC Expo poster · October 2026",
-    summary: "",
+    summary: "I worked with Professor Fatemeh Valizadeh Gamchi through Earlham’s summer collaborative research program. Our team used MovieLens data to compare recommendations based on ratings with recommendations that also used information from movie tags.",
+    resources: ["gamchi"],
     question: "How can semantic information from movie descriptions and tags complement traditional recommendation algorithms?",
     background: "Rating-based recommenders learn from past interactions, which can be sparse. We examined what movie descriptions and tags could add to that picture.",
     methods: "We used MovieLens ml-latest-small (100,836 ratings from 610 users across 9,742 movies in the source dataset). We compared user- and item-based collaborative filtering with SVD matrix factorization, generated Sentence Transformer embeddings from movie metadata, and examined how semantic similarity and hybrid ranking affected top-10 lists. We used title overlap and Jaccard similarity to compare lists.",
