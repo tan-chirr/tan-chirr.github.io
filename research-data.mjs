@@ -1,4 +1,5 @@
 ﻿export const sources = {
+  banerjee: ["Professor Debanjali Banerjee", "https://earlham.edu/faculty-staff/debanjali-banerjee/"],
   gamchi: ["Professor Fatemeh Valizadeh Gamchi", "https://earlham.edu/faculty-staff/fatemeh-valizadeh-gamchi/"],
   waste: ["2021 cooking pot abstract (PDF)", "https://abstracts.societyforscience.org/Home/PrintPdf/20432"],
   awards21: ["2021 ISEF special awards", "https://www.societyforscience.org/press-release/2021-regeneron-isef-sao-awards/"],
@@ -30,6 +31,7 @@ export const projects = [
     contribution: "I participate in critical reading, group discussions, and research synthesis as the review develops.",
     results: "The review is ongoing.",
     limitations: "The review scope and individual contribution statement are still being developed.",
+    resources: ["banerjee"],
     related: ["emotiq", "recommendation-systems"],
   },
   {
